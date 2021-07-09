@@ -57,5 +57,5 @@
 // Deel G Schrijf een functie die 2 arrays ['array 1'] ['array2'] combineert tot 1 array ['array1', 'array2']
 // const combineArrays = (arr1, arr2) => arr1.concat(arr2);
 
-console.log(combineArrays([1,2,3], [4,5,6])); 
+// console.log(combineArrays([1,2,3], [4,5,6])); 
 // resultaat: [1,2,3,4,5,6]
